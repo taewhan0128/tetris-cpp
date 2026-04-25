@@ -41,6 +41,10 @@
 
 # Build directories
 build/
+*.o
+*.out
+*.exe
+.DS_Store
 Build/
 build-*/
 
